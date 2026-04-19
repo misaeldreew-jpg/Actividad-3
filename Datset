@@ -1,8 +1,0 @@
-```csv
-target,admission_grade,first_sem_grade
-Dropout,120,10
-Graduate,150,14
-Enrolled,130,12
-Dropout,110,9
-Graduate,160,15
-Enrolled,140,13
